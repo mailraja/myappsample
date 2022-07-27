@@ -1,5 +1,5 @@
 # MyApp
 This is my app.
 This is first app!
-I mages changes to it.
+I made changes to it.
 
